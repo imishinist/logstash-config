@@ -1,4 +1,4 @@
-module github.com/breml/logstash-config
+module github.com/imishinist/logstash-config
 
 go 1.17
 
